@@ -7,7 +7,7 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on Git
+*- 🔭 I’m currently working on Git*
 - 🌱 I’m currently learning RPA,Hadoop,AI/ML
 - 👯 I’m looking to collaborate on AI OR Data analytics projects
 - 🤔 I’m looking for help with 
